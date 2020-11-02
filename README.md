@@ -1,2 +1,2 @@
-# project-by-navish-aggarwal
-NavishAggarwal-pro-whitehat
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
